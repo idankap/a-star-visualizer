@@ -28,7 +28,7 @@ You can move the start and end by selecting and dragging them with the left mous
 
 
 You can switch whether you want the algorithm to search in diagonals also or not by pressing T on the keyboard
-And to start the algorithm just press SPACE on the keyboard
+and to start the algorithm just press SPACE on the keyboard
 
 <img src="assets/playing.gif" width="48%">
 
