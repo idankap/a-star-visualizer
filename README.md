@@ -21,12 +21,13 @@ You can draw and erase walls by clicking the left mouse button on empty cells to
 
 <img src="assets/drawing.gif" width="48%">
 
+
 You can move the start and end by selecting and dragging them with the left mouse button
 
 <img src="assets/moving.gif" width="48%">
 
-You can switch whether you want the algorithm to search in diagonals also or not by pressing T on the keyboard
 
+You can switch whether you want the algorithm to search in diagonals also or not by pressing T on the keyboard
 And to start the algorithm just press SPACE on the keyboard
 
 <img src="assets/playing.gif" width="48%">
